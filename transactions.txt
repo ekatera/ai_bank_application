@@ -1,0 +1,6 @@
+customer id: 58 account 1004 
+ {'Opeation type': 'deposit', 'Amount': 50, 'Operation time': '30-Nov-2022 13:25:03.387145'}
+customer id: 58 account 1004 
+ {'Opeation type': 'deposit', 'Amount': 50, 'Operation time': '30-Nov-2022 13:25:03.387145'}
+customer id: 58 account 1004 
+ {'Opeation type': 'withdraw', 'Amount': 50, 'Operation time': '30-Nov-2022 13:25:03.387145'}

@@ -1,6 +1,6 @@
-from venv.Account import Account
-from venv.Customer import Customer
-from venv.Bank import Bank
+from Account import Account
+from Customer import Customer
+from Bank import Bank
 
 if __name__ == '__main__':
     bank = Bank()
